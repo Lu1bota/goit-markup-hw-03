@@ -305,8 +305,7 @@ img {
     color: #2e2f42;
     padding-top: 32px;
     margin-bottom: 8px;
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 .team-list-item-text {
@@ -316,8 +315,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    /* display: flex; */
-    align-items: center;
+    text-align: center;
 }
 
 /* PORTFOLIO */
@@ -365,7 +363,7 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding-top: 32px;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .portfolio-list-item-text {
